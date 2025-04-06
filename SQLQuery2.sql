@@ -1,0 +1,1 @@
+﻿SELECT user_id, username, email FROM USERS WHERE email = 'john@example.com' AND userpass = 'john123'
